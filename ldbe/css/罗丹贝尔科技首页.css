@@ -1,0 +1,181 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+#bgheader,
+#bgnav,
+#bgnavA,
+#bgbody,
+#bgfooter,
+#bgfooterA {
+	width: 100%;
+	border: 1px solid transparent;
+}
+
+#bgbody {
+	height: 385px;
+	background: #04080b;
+}
+
+#bgnavA {
+	height: 40px;
+	background: url(../img/navA背景_03.png);
+}
+
+#bgnav {
+	height: 45px;
+}
+
+#bgheader {
+	height: 94px;
+	background: url(../img/背景图片_01.png);
+}
+
+#bgfooter {
+	height: 205px;
+	background: url(../img/下背景_03.png);
+}
+
+#bgfooterA {
+	height: 90px;
+	background: url(../img/背景A_03.png);
+}
+
+.header,
+.nav,
+.navA,
+.body,
+.footer,
+.footerA {
+	width: 1000px;
+	border: 1px solid transparent;
+	margin: 0 auto;
+}
+
+.header {
+	height: 94px;
+	background: url(../img/logo_02.png);
+}
+
+.nav {
+	height: 45px;
+}
+
+.body {
+	height: 385px;
+}
+
+.footer {
+	height: 205px;
+}
+
+.footerA {
+	height: 90px;
+}
+
+.main {
+	width: 1000px;
+	height: 385px;
+	border: 1px solid transparent;
+}
+
+.nav>ul>li {
+	float: left;
+	list-style: none;
+	line-height: 45px;
+	margin-left: 40px;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.bton {
+	width: 215px;
+	height: 25px;
+	border: 1px solid #d7d7d7;
+	margin-top: 10px;
+	border-radius: 20px;
+	line-height: 25px;
+	float: right;
+	background: #f4f4f4;
+}
+
+#uname {
+	width: 136px;
+	height: 17px;
+	border: 1px solid transparent;
+	background: #f3f3f3;
+}
+
+.bba {
+	font-size: 10px;
+}
+
+.navA {
+	height: 40px;
+	color: #a9a9a9;
+	line-height: 40px;
+	font-size: 15px;
+	position: relative;
+}
+
+.bba {
+	color: black;
+}
+
+.feet {
+	width: 230px;
+	height: 130px;
+	border: 1px solid transparent;
+	float: left;
+	margin-top: 35px;
+}
+
+.feet1 {
+	width: 230px;
+	height: 130px;
+	border: 1px solid transparent;
+	float: left;
+	margin-left: 24px;
+	margin-top: 35px;
+}
+
+.logo {
+	width: 150px;
+	height: 30px;
+	border: 1px solid lightgray;
+	position: absolute;
+	left: 838px;
+	top: 25px;
+	background: white;
+	border-radius: 20px;
+	font-size: 10px;
+}
+.qw>ul>li{
+	float:left;
+	list-style: none;
+	margin-left:15px;
+	font-size:10px;
+	margin-top:10px;
+}
+.qw{width:334px;
+	height:26px;
+	border:1px solid transparent;
+	font-size:10px;
+	color:#939393;
+}
+ a:hover{
+	background-color:red;
+}
+
+
+
+
+
+
+
+
